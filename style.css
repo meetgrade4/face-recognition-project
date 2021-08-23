@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#people{
+    color: indigo;
+}
+
+#webcam_live{
+    width: 300px;
+    height: 350px;
+    border: 2px dashed whitesmoke;
+}
+
+#nameofobject, #accuracyofobject{
+    font-size: medium;
+    color: indigo;
+}
+
+.result{
+    font-size: 22px;
+}
